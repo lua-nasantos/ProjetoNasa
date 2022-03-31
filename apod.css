@@ -11,12 +11,15 @@ p{
     padding-top: 5%;
 }
 
-#black{
-    color: black;
+#cor{
+    color: rgb(76, 165, 143);
 }
 
 footer{
-position: absolute;
+position:static;
 bottom: 0;
 left: 30%;
+align-items:center;
+display:flex;
+width: 90%;
 }
